@@ -1,0 +1,9 @@
+{
+  "versionCode": 13,
+  "versionName": "1.3",
+  "mandatory": true,
+  "message": "يتوفر تحديث إلزامي لتحسين الأمان والتوافق.",
+  "apkUrl": "https://raw.githubusercontent.com/yxboxyousif-cell/r2-channel-arabizer-releases/main/R2-Channel-Arabizer-v1.3-protected.apk",
+  "sha256": "a6627e3c11c21d953a750dddcb9379e5cec97d3b1975f81ad10d69b1ec4b830a"
+}
+
