@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.4",
+  "versionCode": 15,
+  "versionName": "1.5",
   "mandatory": true,
-  "message": "تحديث إلزامي إلى الإصدار 1.4: حماية إضافية وتحسينات التصفح والتعريب والتخزين.",
-  "apkUrl": "https://raw.githubusercontent.com/yxboxyousif-cell/r2-channel-arabizer-releases/main/R2-Channel-Arabizer-v1.4-update-fix.apk",
-  "sha256": "3ad154003676cd6d224c1d2c62cc73731b0e2ff7ed32ed1d65880f9cc587216d"
+  "message": "تحديث إلزامي إلى الإصدار 1.5: إصلاح اكتمال التنزيل والانتقال التلقائي إلى التثبيت.",
+  "apkUrl": "https://github.com/yxboxyousif-cell/r2-channel-arabizer-releases/releases/download/v1.5/R2-Channel-Arabizer-v1.5-release.apk",
+  "sha256": "592a160e0af8c579a7bcc37f8d56c1561fc0fe56d89fa9f391e7af83d0e38695"
 }
