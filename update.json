@@ -3,6 +3,6 @@
   "versionName": "1.4",
   "mandatory": true,
   "message": "تحديث إلزامي إلى الإصدار 1.4: حماية إضافية وتحسينات التصفح والتعريب والتخزين.",
-  "apkUrl": "https://github.com/yxboxyousif-cell/r2-channel-arabizer-releases/releases/download/v1.4/R2-Channel-Arabizer-v1.4-release.apk",
-  "sha256": "978e4e12af31e627aca248ec2cce383f0878940b9f34a0b8c553e39725a3dadf"
+  "apkUrl": "https://raw.githubusercontent.com/yxboxyousif-cell/r2-channel-arabizer-releases/main/R2-Channel-Arabizer-v1.4-update-fix.apk",
+  "sha256": "3ad154003676cd6d224c1d2c62cc73731b0e2ff7ed32ed1d65880f9cc587216d"
 }
