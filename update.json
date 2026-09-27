@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.6",
+  "versionCode": 22,
+  "versionName": "2.2",
   "mandatory": true,
-  "message": "تحديث إلزامي إلى الإصدار 1.6: استمرار حظر التطبيق عند الرجوع من صفحة صلاحية التثبيت حتى اكتمال التحديث.",
-  "apkUrl": "https://github.com/yxboxyousif-cell/r2-channel-arabizer-releases/releases/download/v1.6/R2-Channel-Arabizer-v1.6-release.apk",
-  "sha256": "3dd40d47511918ab6300a6ada832a49f54f324b3ffe58323416d050a044e849c"
+  "message": "تحديث إلزامي إلى الإصدار 2.2: تحسين التعريب والاستقرار ودعم اختيار الأقمار والحفظ الآمن.",
+  "apkUrl": "https://github.com/yxboxyousif-cell/r2-channel-arabizer-releases/releases/download/v2.2/R2-Channel-Arabizer-v2.2-release.apk",
+  "sha256": "201308f78a22e177d0222d8481f4b094d3eac3784994d051fd6dfcd4d83e23dc"
 }
